@@ -1,4 +1,4 @@
 
 
-document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demjo").innerHTML = 5 + 6;
 
