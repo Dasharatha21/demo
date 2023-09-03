@@ -3,17 +3,17 @@
     {
       "title": "Hii",
       "content": "This is the content of Post 1.",
-      "downloadLink": "https://example.com/downloads/post1.pdf"
+      "specificLink": "https://example.com/downloads/post1.zip"
     },
     {
       "title": "Post 2",
       "content": "This is the content of Post 2.",
-      "downloadLink": "https://example.com/downloads/post2.zip"
+      "specificLink": "https://example.com/downloads/post2.pdf"
     },
     {
       "title": "Post 3",
       "content": "This is the content of Post 3.",
-      "downloadLink": "https://example.com/downloads/post3.docx"
+      "specificLink": "https://example.com/downloads/post3.docx"
     }
   ]
 }
